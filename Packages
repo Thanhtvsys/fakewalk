@@ -1,0 +1,15 @@
+Package: com.ban.healthtool
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TeamPH
+Depends: firmware (>= 14.0)
+Filename: debs/com.ban.healthtool.deb
+Size: 338716
+MD5sum: 312cba13da992d774ba6e7b221623334
+SHA1: 6d3b2904b50384589f47559064eb7292a22c69aa
+SHA256: e80860a75a7c0fda2dadfccb61f087b66dc88c64dbbddfdd00142c7e69fe06b0
+Section: Utilities
+Description: Tool HealthKit Auto Import by Ban
+Author: TeamPH
+Name: Health Tool PHMMO
+
